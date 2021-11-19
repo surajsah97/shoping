@@ -1,0 +1,9 @@
+
+
+const constant={}
+
+constant.PRODUCT_LIST_REQUEST="PRODUCT_LIST_REQUEST"
+constant.PRODUCT_LIST_SUCCESS="PRODUCT_LIST_SUCCESS"
+constant.PRODUCT_LIST_FAIL="PRODUCT_LIST_FAIL"
+constant.CART_ADD_ITEM="CART_ADD_ITEM"
+export default constant
